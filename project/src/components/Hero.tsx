@@ -17,7 +17,7 @@ export default function Hero() {
         <h1 className="text-[3rem] xs:text-[4rem] sm:text-[6rem] md:text-[8rem] lg:text-[10rem] xl:text-[12rem] 
                      font-thin tracking-[0.2em] mb-6 leading-none text-black/20"
             style={{ textShadow: '4px 4px 8px rgba(0,0,0,0.1)' }}>
-          SHADOW
+          SHADOWS
         </h1>
         <p className="text-base sm:text-lg md:text-xl text-black/50 max-w-2xl mx-auto 
                     tracking-[0.2em] sm:tracking-[0.3em] font-light">
