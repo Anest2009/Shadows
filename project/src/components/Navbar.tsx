@@ -12,7 +12,7 @@ export default function Navbar() {
           
           <div className="hidden md:flex space-x-8">
             <NavLink href="#home">Home</NavLink>
-            <NavLink href="#gallery">Gallery</NavLink>
+            <NavLink href="#gallery">Galler</NavLink>
             <NavLink href="#about">About</NavLink>
             <NavLink href="#contact">Contact</NavLink>
           </div>
